@@ -1,1 +1,3 @@
-*.pickle
+dataset_cv_final.pickle
+dataset_test_final.pickle
+dataset_train_final.pickle

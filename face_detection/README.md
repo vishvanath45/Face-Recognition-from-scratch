@@ -4,7 +4,7 @@
 
 Problem Statement - Task B entails you to develop a simple Web Application, which when given an image, is able to detect a face (show with a boundary box) and give a result saying whether Narendra Modi and/or Arvind Kejriwal are present in the image or not.
 
-TL;Dr- The Web Application is up at https://image-recog.eigencoders.com / https://104.196.154.231 (Accuracy 94.7%):smiley::smiley:
+TL;Dr- The Web Application is up at https://image-recog.eigencoders.com / http://104.196.154.231 (Accuracy 94.7%):smiley::smiley:
 
 First thought, this looks like a Image Classification Task, Machine Learning approach would do.
 
@@ -36,7 +36,7 @@ So now, whenever a new image comes to me, I have to do following processes on it
 - Run the feature array on classifier, get label and accordingly show output.
 
 
-Test it now, :100: https://image-recog.eigencoders.com / https://104.196.154.231 :sunglasses:
+Test it now, :100: https://image-recog.eigencoders.com / http://104.196.154.231 :sunglasses:
 
 
 ### _Things which were planned but could not be done :disappointed:._

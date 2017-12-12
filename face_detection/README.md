@@ -41,6 +41,7 @@ Test it now, :100: https://image-recog.eigencoders.com / https://104.196.154.231
 
 ### _Things which were planned but could not be done :disappointed:._
 - Wanted to save the datset of Train, Test and Cross Validation data in MongoDB, but it turns out that maximum size of BSON document size is 16 MB which can be stored in  mongo document. It is visible in in Block [71] of `Image_Classification.ipynb` where it throws an error `DocumentTooLarge: BSON document too large (1484657743 bytes) - the connected server supports BSON document sizes up to 16793598 bytes(16 MB)`:confused:. So I worked around it by saving the datset in .pickle format, which allows me use dataset directly without computating again and again.
+- Wanted to upload `dataset_train_final.pickle` on this git repo, but can't due to size restriction on github. I plan to host all `dataset_train_final.pickle`, `dataset_test_final.pickle` and `dataset_cv_final.pickle` on google drive and provide link.
 
 
 ### _Web Deployment Part_
@@ -57,3 +58,7 @@ https://imgur.com/a/u4bgX
 <img src="https://imgur.com/a/u4bgX" width=500 align="center"/> 
 
 For further developement/queries of this work, you can write me to : vnds.20150389[@]btech[.]nitdgp[.]ac[.]in :bowtie:
+
+If you are impressed by this, then you should check out my other works on my personal page [here](https://vishvanath45.github.io)
+
+---

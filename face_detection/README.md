@@ -55,7 +55,7 @@ I would like to thank several tutorials on machine learning, [Reddit.com/r/Machi
 
 #### _Sample of Face Recogniser_
 Link - https://imgur.com/a/u4bgX
-![Sample](https://imgur.com/a/u4bgX) 
+![Sample](https://i.imgur.com/NNU8kttr.png) 
 
 For further developement/queries of this work, you can write me to : vnds.20150389[@]btech[.]nitdgp[.]ac[.]in :bowtie:
 

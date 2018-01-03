@@ -36,7 +36,7 @@ So now, whenever a new image comes to me, I have to do following processes on it
 - Run the feature array on classifier, get label and accordingly show output.
 
 
-Test it now, :100: https://image-recog.eigencoders.com / http://104.196.154.231 :sunglasses:
+Test it now, :100: http://image-recog.eigencoders.com / http://104.196.154.231 :sunglasses:
 
 
 ### _Things which were planned but could not be done :disappointed:._
